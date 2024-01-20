@@ -12,3 +12,4 @@
 <p>5 - Move the "blockinternet.bat" to this directory:    C:\Program Files\FXhome\    and run it as admin.</p>
 <p><i>If you have more FXhome products other than the subscription ones, then place this file in both the HitFilm and Imerge folder and run them serperately as admin.</i></p>
 <p>6 - Open RunAsDate.exe and create a shortcut for HitFilm and/or Imerge. To do this, in the "Application to run" field, put C:\Program Files\FXhome\HitFilm\HitFilm.exe OR C:\Program Files\FXhome\Imerge\Imerge.exe (YOU CANNOT DO THESE AT THE SAME TIME THEY HAVE TO BE DONE SERPERATELY) and set the date to be any date that your subscription is valid. I usually just put the second day the subscription is valid (for example if you bought it on 2/14/23 then type 2/15/23 in RunAsDate). Change the shortcut's name if you want to, and hit "Create Desktop Shortcut".</p>
+<p>7 - Open HitFilm/Imerge and you should have Pro forever. Enjoy!</p>
