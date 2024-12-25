@@ -1,6 +1,7 @@
 <h1>FXhome Subscription Extender</h1>
 <i><strong>What does this do?</strong></i>
 <p>This allows a 1 month or 12 month or whatever subscription to FXhome's either Creator or Pro tiers to run for forever even after the subscription expires.</p>
+<p>It's quite dumb to even give FXhome any money at this point but if you're like me I really liked using HitFilm so I bought a subscription because it's a lot cheaper than buying HitFilm Pro once was. With this program, you can essentially get perpetual HitFilm Pro for $20</p>
 <hr>
 <i><strong>How to use:</strong></i>
 <p>1 - Purchase an FXhome subscription</p>
